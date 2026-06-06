@@ -1,7 +1,7 @@
 # First and Last Word Extractor
 This program asks the user to type a full sentence, splits the sentence into individual words, and then prints the first and last word.
 
-# Features
+## Features
 - Asks the user to enter a full sentence
 - Splits the sentence into a list of words using `split()`
 - Extracts the first word (`[0]`)
